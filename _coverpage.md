@@ -1,4 +1,4 @@
-<img src="_img/cover_yqx.png" style="zoom:40%;">
+<img src="_img/cover_yqx.png" style="zoom:60%;">
 
 # qxyan の LeetCode 学习之路
 
