@@ -1,4 +1,4 @@
-<img src="_img/yqx.png" style="zoom:40%;">
+<img src="_img/cover_yqx.png" style="zoom:40%;">
 
 # qxyan の LeetCode 学习之路
 
@@ -8,6 +8,5 @@
 
 [GitHub](https://github.com/misads/leetcode/)
 [Get Started](/README.md)
-
 
 
