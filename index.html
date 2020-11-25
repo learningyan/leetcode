@@ -37,16 +37,17 @@
       loadNavbar: true,
       auto2top: true,
         search: {
-          paths:'auto',
+            paths: 'auto',
+            maxAge: 1,
           placeholder: {
               '/': '搜索',
-              '/zh-cn/': '搜索',
-              '/en-us/': 'Type to search'
+             // '/zh-cn/': '搜索',
+              //'/en-us/': 'Type to search'
           },
           noData: {
               '/': '找不到结果',
-              '/zh-cn/': '找不到结果',
-              '/en-us/': 'No Results'
+              //'/zh-cn/': '找不到结果',
+             // '/en-us/': 'No Results'
           }
       },
       subMaxLevel: 3,
