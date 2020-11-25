@@ -352,7 +352,7 @@
     noData: 'No Results!',
     paths: 'auto',
     depth: 2,
-    maxAge: 86400000, // 1 day
+    maxAge: 1, // 1 day
     hideOtherSidebarContent: false,
     namespace: undefined,
   };
